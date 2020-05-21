@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/React-Currency-Converter/static/css/main.050523cc.chunk.css",
-    "main.js": "/React-Currency-Converter/static/js/main.2169f60e.chunk.js",
-    "main.js.map": "/React-Currency-Converter/static/js/main.2169f60e.chunk.js.map",
+    "main.css": "/React-Currency-Converter/static/css/main.53701715.chunk.css",
+    "main.js": "/React-Currency-Converter/static/js/main.3f2c0c95.chunk.js",
+    "main.js.map": "/React-Currency-Converter/static/js/main.3f2c0c95.chunk.js.map",
     "runtime-main.js": "/React-Currency-Converter/static/js/runtime-main.cb92722d.js",
     "runtime-main.js.map": "/React-Currency-Converter/static/js/runtime-main.cb92722d.js.map",
-    "static/js/2.0d325d14.chunk.js": "/React-Currency-Converter/static/js/2.0d325d14.chunk.js",
-    "static/js/2.0d325d14.chunk.js.map": "/React-Currency-Converter/static/js/2.0d325d14.chunk.js.map",
+    "static/js/2.a5da546d.chunk.js": "/React-Currency-Converter/static/js/2.a5da546d.chunk.js",
+    "static/js/2.a5da546d.chunk.js.map": "/React-Currency-Converter/static/js/2.a5da546d.chunk.js.map",
     "index.html": "/React-Currency-Converter/index.html",
-    "precache-manifest.0b8c78485cc6795b99dbb309124ac595.js": "/React-Currency-Converter/precache-manifest.0b8c78485cc6795b99dbb309124ac595.js",
+    "precache-manifest.2796705fa907e6b88baddd2dc4218b57.js": "/React-Currency-Converter/precache-manifest.2796705fa907e6b88baddd2dc4218b57.js",
     "service-worker.js": "/React-Currency-Converter/service-worker.js",
-    "static/css/main.050523cc.chunk.css.map": "/React-Currency-Converter/static/css/main.050523cc.chunk.css.map",
-    "static/js/2.0d325d14.chunk.js.LICENSE.txt": "/React-Currency-Converter/static/js/2.0d325d14.chunk.js.LICENSE.txt"
+    "static/css/main.53701715.chunk.css.map": "/React-Currency-Converter/static/css/main.53701715.chunk.css.map",
+    "static/js/2.a5da546d.chunk.js.LICENSE.txt": "/React-Currency-Converter/static/js/2.a5da546d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-Currency-Converter/static/media/bg.9b749bef.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cb92722d.js",
-    "static/js/2.0d325d14.chunk.js",
-    "static/css/main.050523cc.chunk.css",
-    "static/js/main.2169f60e.chunk.js"
+    "static/js/2.a5da546d.chunk.js",
+    "static/css/main.53701715.chunk.css",
+    "static/js/main.3f2c0c95.chunk.js"
   ]
 }
